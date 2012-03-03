@@ -1,0 +1,24 @@
+<h5>Have a question about GrowTap? Please let us know and we will be in touch shortly. You can also reach us at (917) 408-3008.</h5></br>
+<div class="contactcol">
+<div style="float: left; width: 45%; padding-right: 10%;">
+<p>Your Name *<br />
+    [text* your-name] </p>
+
+<p>Email Address *<br />
+    [email* your-email] </p>
+
+<p>Phone Number<br />
+[text text-102 /15 id:Phone] </p>
+
+<p>Website<br />
+    [text your-subject] </p>
+
+<p>[submit "Send"]</p>
+</div>
+<div style="float: right; width: 45%; padding-right: 0%;">
+<p>Message<br />
+    [textarea your-message] </p>
+
+[checkbox checkbox-subscribe "Get GrowTap Updates"]
+</div>
+</div>
